@@ -1,7 +1,0 @@
-/* @flow */
-
-require('test');
-
-class Decl {}
-
-module.exports = new Decl(); 

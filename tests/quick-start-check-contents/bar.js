@@ -1,2 +1,0 @@
-// @flow
-(require('./foo'): number);

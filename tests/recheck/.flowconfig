@@ -1,7 +1,0 @@
-[ignore]
-<PROJECT_ROOT>/tmp*
-
-[libs]
-lib
-
-[options]
